@@ -2,7 +2,7 @@
 
 Submitted by: **Yazhen Li**
 
-**YazhenLi-Prework** is an app that... [TODO] 
+**YazhenLi-Prework** It is an app that displays professional details of the app creator  (name/education/work) and shows a Magical Color Button to instantly change the background once users click it.
 
 Time spent: **1.5** hours spent in total
 
